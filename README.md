@@ -7,6 +7,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineDsouza&layout=compact)](https://github.com/AlineDsouza/github-readme-stats)
+
 [![Aline's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineDsouza)](https://github.com/AlineDsouza/github-readme-stats)
 
 
