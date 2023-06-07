@@ -1,12 +1,5 @@
  ## Bem-vindo(a) ao meu perfil do GitHub! 👋
 
-## Sobre Mim
-Olá! Estou empenhada em desenvolver minhas habilidades na área de tecnologia. Atualmente, estou focada em aprender Angular, HTML5, CSS3 e TypeScript. Essas tecnologias são fundamentais para o desenvolvimento de aplicativos web modernos e atraentes.
-
-[![GitHub followers](https://img.shields.io/github/followers/alinedsouza?style=social)](https://github.com/alinedsouza)
-
-
-## Linguagens de Programação
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alinedsouza&layout=compact&theme=dark)
 
 ## Projetos Destacados
