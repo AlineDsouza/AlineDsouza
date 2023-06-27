@@ -5,6 +5,7 @@
 ## Projetos Destacados
 Aqui estão alguns projetos em destaque que demonstrei meu trabalho e paixão:
 
+- [Portifolio](https://github.com/AlineDsouza/Portifolio-AlineSouza): Em construção...
 - [Projeto Patinhas](https://github.com/AlineDsouza/Projeto-Patinhas): Angular, HTML5, CSS3, Typescript
 - [Explorer Landing Page](https://explorer-landing-page-six.vercel.app/#): HTML5, CSS Flexbox
 
