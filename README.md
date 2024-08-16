@@ -5,7 +5,7 @@
 ## Projetos Destacados
 Aqui estão alguns projetos em destaque que demonstrei meu trabalho e paixão:
 
-- [Portifolio](https://github.com/AlineDsouza/Portifolio-AlineSouza): Em construção...
+- [Trilha Front-end Código certo]([https://github.com/AlineDsouza/Portifolio-AlineSouza](https://trilha-front-end-jr-jun-15-three.vercel.app/)): HTML5, CSS3 Flexbox
 - [Projeto Patinhas](https://github.com/AlineDsouza/Projeto-Patinhas): Angular, HTML5, CSS3, Typescript
 - [Explorer Landing Page](https://explorer-landing-page-six.vercel.app/#): HTML5, CSS Flexbox
 
