@@ -5,7 +5,7 @@
 ## Projetos Destacados
 Aqui estão alguns projetos em destaque que demonstrei meu trabalho e paixão:
 
-- [Trilha Front-end Código certo](https://trilha-front-end-jr-jun-15-three.vercel.app/): HTML5, CSS3 Flexbox
+
 - [Explorer Landing Page](https://explorer-landing-page-six.vercel.app/#): HTML5, CSS Flexbox
 
 
