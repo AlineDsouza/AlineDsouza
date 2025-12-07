@@ -12,5 +12,5 @@ Aqui estão alguns projetos em destaque que demonstrei meu trabalho e paixão:
 Você pode encontrar mais projetos e contribuições no meu perfil do GitHub.
 
 
-## Obrigado(a) por visitar meu perfil!
+## Obrigada por visitar meu perfil!
 Agradeço por tirar um tempo para explorar meu perfil no GitHub. Fique à vontade para explorar meus repositórios e entrar em contato comigo. Espero que encontre algo interessante por aqui!
