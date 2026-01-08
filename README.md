@@ -3,8 +3,6 @@
 
 **`Desenvolvedora Fullstack em formação`**
 
----
-
 ## ✨ Sobre mim
 
 🖥️Atualmente, estou focada em:
