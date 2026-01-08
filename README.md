@@ -5,13 +5,16 @@
 <p align="center">
   <strong>Desenvolvedora Fullstack em formação</strong>
 </p>
+
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,angular,js,nodejs,mongodb,git,github,vscode,postman" />
 </p>
+
 ---
+
 ## 📌 Projetos em Destaque
 Aqui estão alguns projetos em destaque que demonstrei meu trabalho e paixão:
 
