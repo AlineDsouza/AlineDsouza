@@ -25,8 +25,6 @@
 - [Explorer Landing Page](https://explorer-landing-page-six.vercel.app/#): HTML5, CSS Flexbox
 - [Patinhas - FullStack Project] : Nodejs, Angular 19, MongoDB, Express
 
-
-🔎 Você pode encontrar mais projetos navegando pelos meus repositórios.
 ---
 
 ## 🚀 Tecnologias e Ferramentas
