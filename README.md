@@ -1,5 +1,11 @@
  ## Bem-vindo(a) ao meu perfil do GitHub! 👋
 
+<h1 align="center">👩‍💻 Aline D'Souza</h1>
+
+<p align="center">
+  <strong>Desenvolvedora Fullstack em formação</strong>
+</p>
+
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alinedsouza&layout=compact&theme=dark)
 
 ## Projetos Destacados
