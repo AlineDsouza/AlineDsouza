@@ -1,9 +1,6 @@
 
-<h1 align="center">👩‍💻 Aline Silva</h1>
-
-<p align="center">
-  <strong>Desenvolvedora Fullstack em formação</strong>
-</p>
+#👩‍💻 Aline Silva
+**`Desenvolvedora Fullstack em formação`**
 
 ---
 
