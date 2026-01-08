@@ -20,7 +20,7 @@
 
 ## 🚀 Tecnologias e Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,angular,js,nodejs,mongodb,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=angular,js,ts,nodejs,mongodb,git,github,vscode,postman,html,css" />
 </p>
 
 ## 🤝 Vamos nos conectar?
