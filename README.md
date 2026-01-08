@@ -20,7 +20,7 @@
 
 ## 🚀 Tecnologias e Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,js,ts,nodejs,mongodb,git,github,vscode,postman,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,angular,nodejs,mongodb,git,github,vscode,postman,html,css" />
 </p>
 
 ## 🤝 Vamos nos conectar?
@@ -31,14 +31,3 @@
 
 ## Obrigada por visitar meu perfil!
 Agradeço por tirar um tempo para explorar meu perfil no GitHub. Fique à vontade para explorar meus repositórios e entrar em contato comigo. Espero que encontre algo interessante por aqui!
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alinedsouza&show_icons=true&theme=dark&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinedsouza&layout=compact&theme=dark&hide_border=true" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,angular,nodejs,mongodb,git,github,html,css" />
-</p>
