@@ -7,11 +7,23 @@
 
 ---
 
+## ✨ Sobre mim
+
+🖥️Atualmente, estou focada em:
+- Construir projetos práticos
+- Aprimorar fundamentos de **Front-end e Back-end**
+- Aprender boas práticas de código e versionamento com **Git/GitHub**
+- Evoluir constantemente em arquitetura, organização de código e qualidade de software
+  
+🚀 Procuro oportunidades de estágio ou projetos colaborativos que me permitam aplicar os conhecimentos adquiridos, ganhar experiência prática e contribuir com soluções eficazes e bem estruturadas.
+
+---
+
+
 ## 📌 Projetos em Destaque
-Aqui estão alguns projetos em destaque que demonstrei meu trabalho e paixão:
 
 - [Explorer Landing Page](https://explorer-landing-page-six.vercel.app/#): HTML5, CSS Flexbox
-- [Patinhas - FullStack Project] (https://#): Nodejs, Angular 19, MongoDB, Express
+- [Patinhas - FullStack Project] : Nodejs, Angular 19, MongoDB, Express
 
 
 🔎 Você pode encontrar mais projetos navegando pelos meus repositórios.
@@ -23,18 +35,6 @@ Aqui estão alguns projetos em destaque que demonstrei meu trabalho e paixão:
 </p>
 
 ---
-
-## ✨ Sobre mim
-
-🖥️Atualmente, estou focada em:
-- Construir projetos práticos
-- Aprimorar fundamentos de **Front-end e Back-end**
-- Aprender boas práticas de código e versionamento com **Git/GitHub**
-- Evoluir constantemente em arquitetura, organização de código e qualidade de software
-  
-🚀 Procuro oportunidades de estágio ou projetos colaborativos que me permitam aplicar os conhecimentos adquiridos, ganhar experiência prática e contribuir com soluções eficazes e bem estruturadas.
----
-
 ## 🤝 Vamos nos conectar?
 
 - 💼 Buscando **estágio em desenvolvimento Fullstack**
