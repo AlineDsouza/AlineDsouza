@@ -17,11 +17,9 @@
 ---
 ## 🚀 Tecnologias e Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,angular,js,git,github,nodejs,mongodb,vscode" />
 </p>
 ---
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alinedsouza&layout=compact&theme=dark)
 
 ## 📌 Projetos em Destaque
 Aqui estão alguns projetos em destaque que demonstrei meu trabalho e paixão:
