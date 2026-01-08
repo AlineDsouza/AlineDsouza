@@ -17,7 +17,7 @@
 ---
 ## 🚀 Tecnologias e Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,angular,js,git,github,nodejs,mongodb,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,angular,js,nodejs,mongodb,git,github,vscode,postman" />
 </p>
 ---
 
