@@ -10,10 +10,6 @@
 - Aprimorar fundamentos de **Front-end e Back-end**
 - Aprender boas práticas de código e versionamento com **Git/GitHub**
 - Evoluir constantemente em arquitetura, organização de código e qualidade de software
-  
-🚀 Procuro oportunidades de estágio ou projetos colaborativos que me permitam aplicar os conhecimentos adquiridos, ganhar experiência prática e contribuir com soluções eficazes e bem estruturadas.
-
----
 
 
 ## 📌 Projetos em Destaque
@@ -21,14 +17,12 @@
 - [Explorer Landing Page](https://explorer-landing-page-six.vercel.app/#): HTML5, CSS Flexbox
 - [Patinhas - FullStack Project] : Nodejs, Angular 19, MongoDB, Express
 
----
 
 ## 🚀 Tecnologias e Ferramentas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,angular,js,nodejs,mongodb,git,github,vscode,postman" />
 </p>
 
----
 ## 🤝 Vamos nos conectar?
 
 - 💼 Buscando **estágio em desenvolvimento Fullstack**
