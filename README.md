@@ -1,16 +1,8 @@
- ## Bem-vindo(a) ao meu perfil do GitHub! 👋
 
 <h1 align="center">👩‍💻 Aline Silva</h1>
 
 <p align="center">
   <strong>Desenvolvedora Fullstack em formação</strong>
-</p>
-
----
-
-## 🚀 Tecnologias e Ferramentas
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,angular,js,nodejs,mongodb,git,github,vscode,postman" />
 </p>
 
 ---
@@ -23,6 +15,13 @@ Aqui estão alguns projetos em destaque que demonstrei meu trabalho e paixão:
 
 
 🔎 Você pode encontrar mais projetos navegando pelos meus repositórios.
+---
+
+## 🚀 Tecnologias e Ferramentas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,angular,js,nodejs,mongodb,git,github,vscode,postman" />
+</p>
+
 ---
 
 ## ✨ Sobre mim
