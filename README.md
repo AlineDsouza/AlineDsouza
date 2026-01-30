@@ -14,9 +14,8 @@
 
 ## 📌 Projetos em Destaque
 
+- [Patinhas - FullStack Project] (https://github.com/AlineDsouza/patinhas-angular-node) : Nodejs, Angular 19, MongoDB, Express
 - [Explorer Landing Page](https://explorer-landing-page-six.vercel.app/#): HTML5, CSS Flexbox
-- [Patinhas - FullStack Project] : Nodejs, Angular 19, MongoDB, Express
-
 
 ## 🚀 Tecnologias e Ferramentas
 <p align="left">
